@@ -1,0 +1,51 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Escobar%
+}{%
+Escobar%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+escobar2009conceptos}
+\APACinsertmetastar {%
+escobar2009conceptos}%
+\begin{APACrefauthors}%
+Escobar, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {Conceptos B{\'a}sicos de Procesamiento Digital de Se{\~n}ales}
+  {Conceptos b{\'a}sicos de procesamiento digital de se{\~n}ales}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lago%
+, Benningfield%
+\BCBL {}\ \BBA {} Barr{\'o}n%
+}{%
+Lago%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1984}}%
+}]{%
+lago1984teoria}
+\APACinsertmetastar {%
+lago1984teoria}%
+\begin{APACrefauthors}%
+Lago, G.%
+, Benningfield, L\BPBI M.%
+\BCBL {}\ \BBA {} Barr{\'o}n, V\BPBI P\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1984}.
+\newblock
+\APACrefbtitle {Teor{\'\i}a de sistemas y circuitos} {Teor{\'\i}a de sistemas y
+  circuitos}.
+\newblock
+\APACaddressPublisher{}{Limusa}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

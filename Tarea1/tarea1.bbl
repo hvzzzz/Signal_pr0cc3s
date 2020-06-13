@@ -1,0 +1,28 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Proakis%
+\ \BBA {} Manolakis%
+}{%
+Proakis%
+\ \BBA {} Manolakis%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+proakis1996digital}
+\APACinsertmetastar {%
+proakis1996digital}%
+\begin{APACrefauthors}%
+Proakis, J\BPBI G.%
+\BCBT {}\ \BBA {} Manolakis, D\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{}{}.
+\newblock
+\APACrefbtitle {Digital signal processing.} {Digital signal processing.}
+\newblock
+\APACaddressPublisher{}{Prentice Hall New Jersey}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
